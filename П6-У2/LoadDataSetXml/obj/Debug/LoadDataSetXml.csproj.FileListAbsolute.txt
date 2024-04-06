@@ -1,0 +1,10 @@
+C:\Users\sharo\OneDrive\Рабочий стол\7 - Технология ADO.NET\ДЗ\П6\У2\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe.config
+C:\Users\sharo\OneDrive\Рабочий стол\7 - Технология ADO.NET\ДЗ\П6\У2\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe
+C:\Users\sharo\OneDrive\Рабочий стол\7 - Технология ADO.NET\ДЗ\П6\У2\LoadDataSetXml\bin\Debug\LoadDataSetXml.pdb
+C:\Users\sharo\OneDrive\Рабочий стол\7 - Технология ADO.NET\ДЗ\П6\У2\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.AssemblyReference.cache
+C:\Users\sharo\OneDrive\Рабочий стол\7 - Технология ADO.NET\ДЗ\П6\У2\LoadDataSetXml\obj\Debug\LoadDataSetXml.Form1.resources
+C:\Users\sharo\OneDrive\Рабочий стол\7 - Технология ADO.NET\ДЗ\П6\У2\LoadDataSetXml\obj\Debug\LoadDataSetXml.Properties.Resources.resources
+C:\Users\sharo\OneDrive\Рабочий стол\7 - Технология ADO.NET\ДЗ\П6\У2\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.GenerateResource.cache
+C:\Users\sharo\OneDrive\Рабочий стол\7 - Технология ADO.NET\ДЗ\П6\У2\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Рабочий стол\7 - Технология ADO.NET\ДЗ\П6\У2\LoadDataSetXml\obj\Debug\LoadDataSetXml.exe
+C:\Users\sharo\OneDrive\Рабочий стол\7 - Технология ADO.NET\ДЗ\П6\У2\LoadDataSetXml\obj\Debug\LoadDataSetXml.pdb
