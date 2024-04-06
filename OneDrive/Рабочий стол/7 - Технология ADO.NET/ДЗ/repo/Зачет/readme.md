@@ -12,7 +12,7 @@ This repository contains a comprehensive list of zip codes (postal codes) for co
 ##### Приведение данных:
 Скриптом питона (папка etl-zip) собираем .CSV таблицы по нашему пожеланию, с нашими первичными ключами, денормализованные.
 Скриптом .SQL для BD postgres собираем базу данных, импортируя таблицы из файлов COUNTRIES_OUT.CSV ZIPADDRESSES2.CSV ZIPCOORDS2.CSV.
-Само прилодение WinForms расположено в папке zip-codes.
+Само приложение WinForms расположено в папке zip-codes.
 ##### Учетные записи:
 zip_user :: user - права на чтение;
 zip-admin :: admin - права на запись;
